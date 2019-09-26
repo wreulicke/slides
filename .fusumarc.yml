@@ -1,0 +1,19 @@
+meta:
+  url: https://slides.hiroppy.me
+  name:
+  author:
+  thumbnail:
+  description:
+  sns:
+    - twitter
+slide:
+  showIndex: true
+  code:
+    languages:
+      - javascript
+      - java
+    plugins: []
+    theme: default
+extends:
+  js:
+  css: style.css
